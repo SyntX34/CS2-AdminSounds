@@ -41,4 +41,4 @@ The plugin automatically generates a config file after first run. It supports:
 📚 Credits
 Developed by [SyntX](https://steamcommunity.com/id/SyntX34)
 
-[Official Sound Pack:] (https://steamcommunity.com/sharedfiles/filedetails/?id=3513535709)
+[Official Sound Pack:](https://steamcommunity.com/sharedfiles/filedetails/?id=3513535709)
