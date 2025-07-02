@@ -36,8 +36,9 @@ The plugin automatically generates a config file after first run. It supports:
 ✅ Requirements
 - CS2 server running CounterStrikeSharp
 
-[MultiAddonManager](https://github.com/Source2ZE/MultiAddonManager) (required)
+- [MultiAddonManager](https://github.com/Source2ZE/MultiAddonManager) (required)
 
 📚 Credits
 Developed by [SyntX](https://steamcommunity.com/id/SyntX34)
+
 [Official Sound Pack:] (https://steamcommunity.com/sharedfiles/filedetails/?id=3513535709)
