@@ -43,4 +43,4 @@ Developed by [SyntX](https://steamcommunity.com/id/SyntX34)
 
 [Official Sound Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=3513535709)
 
-▶️YouTube Test Video(https://www.youtube.com/watch?v=5Vk_dMZYJy8&ab_channel=NH_SyntX)
+▶️[YouTube Test Video](https://www.youtube.com/watch?v=5Vk_dMZYJy8&ab_channel=NH_SyntX)
