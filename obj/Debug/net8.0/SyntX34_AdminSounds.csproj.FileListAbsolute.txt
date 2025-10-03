@@ -1,0 +1,14 @@
+F:\CS2 Projects\My Plugins\SyntX34_AdminSounds\sourcecode\bin\Debug\net8.0\SyntX34_AdminSounds.deps.json
+F:\CS2 Projects\My Plugins\SyntX34_AdminSounds\sourcecode\bin\Debug\net8.0\SyntX34_AdminSounds.dll
+F:\CS2 Projects\My Plugins\SyntX34_AdminSounds\sourcecode\bin\Debug\net8.0\SyntX34_AdminSounds.pdb
+F:\CS2 Projects\My Plugins\SyntX34_AdminSounds\sourcecode\bin\Debug\net8.0\MenuManagerAPI.dll
+F:\CS2 Projects\My Plugins\SyntX34_AdminSounds\sourcecode\obj\Debug\net8.0\SyntX34_AdminSounds.csproj.AssemblyReference.cache
+F:\CS2 Projects\My Plugins\SyntX34_AdminSounds\sourcecode\obj\Debug\net8.0\SyntX34_AdminSounds.GeneratedMSBuildEditorConfig.editorconfig
+F:\CS2 Projects\My Plugins\SyntX34_AdminSounds\sourcecode\obj\Debug\net8.0\SyntX34_AdminSounds.AssemblyInfoInputs.cache
+F:\CS2 Projects\My Plugins\SyntX34_AdminSounds\sourcecode\obj\Debug\net8.0\SyntX34_AdminSounds.AssemblyInfo.cs
+F:\CS2 Projects\My Plugins\SyntX34_AdminSounds\sourcecode\obj\Debug\net8.0\SyntX34_AdminSounds.csproj.CoreCompileInputs.cache
+F:\CS2 Projects\My Plugins\SyntX34_AdminSounds\sourcecode\obj\Debug\net8.0\SyntX34_.E35EC613.Up2Date
+F:\CS2 Projects\My Plugins\SyntX34_AdminSounds\sourcecode\obj\Debug\net8.0\SyntX34_AdminSounds.dll
+F:\CS2 Projects\My Plugins\SyntX34_AdminSounds\sourcecode\obj\Debug\net8.0\refint\SyntX34_AdminSounds.dll
+F:\CS2 Projects\My Plugins\SyntX34_AdminSounds\sourcecode\obj\Debug\net8.0\SyntX34_AdminSounds.pdb
+F:\CS2 Projects\My Plugins\SyntX34_AdminSounds\sourcecode\obj\Debug\net8.0\ref\SyntX34_AdminSounds.dll
